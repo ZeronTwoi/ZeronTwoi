@@ -1,0 +1,23 @@
+name: Update the app list
+
+on:
+  schedule:
+    - cron: '47 4 * * *' # every day, half an hour after the website rebuilds
+  workflow_dispatch: # the "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node .github/update-apps.mjs
+      - name: Save the README if the list changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update the app list"
+          git push
