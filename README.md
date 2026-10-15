@@ -22,10 +22,8 @@
 |:-:|---|:-:|
 | <img src="https://zerontwoi.github.io/assets/projects/MasterFileConverter/icon.svg" width="44" alt=""> | **[Master File Converter](https://github.com/ZeronTwoi/MasterFileConverter)**<br>Fast, free and offline file converter for Windows and Linux. Converts images, audio, video, documents, spreadsheets, presentations, PDFs and archives in batches, lossless where the format allows. GUI and command line. | [⬇️ Download](https://zerontwoi.github.io/#MasterFileConverter) |
 | <img src="https://zerontwoi.github.io/assets/projects/MasterPdfModifier/icon.png" width="44" alt=""> | **[Master PDF Modifier](https://github.com/ZeronTwoi/MasterPdfModifier)**<br>Free, open-source desktop app to edit, organise, clean up and compress PDF files, scans included (OCR). For Windows and Linux. | [⬇️ Download](https://zerontwoi.github.io/#MasterPdfModifier) |
-|  | **[Image to Text Converter](https://github.com/ZeronTwoi/text-art-converter)**<br>Turn pictures, GIFs and videos into text art (braille, ASCII, emoji…) — free, offline, in the browser or as a Windows/Linux app. | [⬇️ Download](https://zerontwoi.github.io/#text-art-converter) |
+| <img src="https://zerontwoi.github.io/assets/projects/text-art-converter/icon.png" width="44" alt=""> | **[Image to Text Converter](https://github.com/ZeronTwoi/text-art-converter)**<br>Turn pictures, GIFs and videos into text art (braille, ASCII, emoji…) — free, offline, in the browser or as a Windows/Linux app. | [⬇️ Download](https://zerontwoi.github.io/#text-art-converter) |
 <!-- APPS:END -->
-
-<sub>This list updates itself every day from <a href="https://zerontwoi.github.io">my website</a>.</sub>
 
 ## What I build with
 
